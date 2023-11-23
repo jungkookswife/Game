@@ -1,0 +1,30 @@
+INFO:root:Start of the game with numbers N = 7, k = 3 in 2023-11-23 18:05:06.158751
+INFO:root:The numbers N = 7, k = 3 are given
+INFO:root:Generated number: 5
+INFO:root:The expected number has been entered: 4
+INFO:root:The user entered a number less than the desired one
+INFO:root:The expected number has been entered: 5
+INFO:root:The user guessed the number
+INFO:root:The game is completed in 2023-11-23 18:05:22.905886
+INFO:root:Start of the game with numbers N = 10, k = 5 in 2023-11-23 18:07:46.305122
+INFO:root:The numbers N = 10, k = 5 are given
+INFO:root:Generated number: 9
+INFO:root:The expected number has been entered: 4
+INFO:root:The user entered a number less than the desired one
+INFO:root:The expected number has been entered: 5
+INFO:root:The user entered a number less than the desired one
+INFO:root:The expected number has been entered: 6
+INFO:root:The user entered a number less than the desired one
+INFO:root:The expected number has been entered: 7
+INFO:root:The user entered a number less than the desired one
+INFO:root:The expected number has been entered: 9
+INFO:root:The user guessed the number
+INFO:root:The game is completed in 2023-11-23 18:07:57.065229
+INFO:root:Start of the game with numbers N = 6, k = 3 in 2023-11-23 18:08:23.302112
+INFO:root:The numbers N = 6, k = 3 are given
+INFO:root:Generated number: 3
+INFO:root:The expected number has been entered: 2
+INFO:root:The user entered a number less than the desired one
+INFO:root:The expected number has been entered: 3
+INFO:root:The user guessed the number
+INFO:root:The game is completed in 2023-11-23 18:08:35.405932
